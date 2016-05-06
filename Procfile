@@ -1,1 +1,1 @@
-web: java -jar target/service-autos-veiculos-1.0-SNAPSHOT.jar
+web: java -jar target/sample-service-heroku-1.0-SNAPSHOT.jar
